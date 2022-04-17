@@ -25,8 +25,6 @@ const Category = (props) => {
           </div>
         </div>
       </div>
-     
-      {/* <EventDesciption open={open} setOpen={setOpen} title={props.title}/> */}
     </div>
   );
 };
