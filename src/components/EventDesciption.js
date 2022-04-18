@@ -116,10 +116,10 @@ const EventDesciption = () => {
                     <div style={{ fontSize: '15px' }}>
                       <ul>
                   <li>Interview will be in a way to help participants in their campus interview.</li>    
-        <li> Second round will be a face to face interview for all shortlisted candidates,</li>    
-     <li>Questions will be mainly focused on mathematics, puzzles, reasoning and aptitude, predicting program outputs.</li> 
-    <li>First round is a written round and is of 1 hour duration.</li> 
-    <li> This is a single member event and it has 2 rounds.</li>  
+             <li> Second round will be a face to face interview for all shortlisted candidates,</li>    
+        <li>Questions will be mainly focused on mathematics, puzzles, reasoning and aptitude, predicting program outputs.</li> 
+         <li>First round is a written round and is of 1 hour duration.</li> 
+                <li> This is a single member event and it has 2 rounds.</li>  
                       </ul>
                     </div>
                   <h4>Venue: </h4>

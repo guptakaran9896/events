@@ -9,7 +9,7 @@ const Category = (props) => {
     <div>
       <div className="bg-body" style={{"borderRadius":"10%"}}>
         <div className="card" style={{ width: "18rem","borderRadius":"10%" }}>
-          <img src={props.url} style={{"WebkitBorderTopLeftRadius":"10%","WebkitBorderTopRightRadius":"10%",}} className="card-img-top" alt="..." />
+          <img  src={props.url} style={{display:"flex",borderRadius:"10%", width:'12rem',alignItems:"center",margin:"2.5rem",justifyItems:"center"}} className="card-img-top" alt="..." />
           <div className="card-body">
             <h3 className="card-title text-center">{props.title}</h3>
             <div className="text-center p-2 ">
@@ -26,7 +26,7 @@ const Category = (props) => {
         </div>
       </div>
      
-      {/* <EventDesciption open={open} setOpen={setOpen} title={props.title}/> */}
+     
     </div>
   );
 };

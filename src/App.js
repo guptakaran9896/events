@@ -7,7 +7,7 @@ import EventDesciption from "./components/EventDesciption";
 function App() {
   return (
     <>
-      {/* <div>
+      <div>
         <div>
           <h1 className="my-5 mx-5 text-center fw-bold">Events of PhotoGraphy</h1>
           <div className="container">
@@ -35,7 +35,7 @@ function App() {
         </div>
        
         
-      </div> */}
+      </div>
       <EventDesciption/>
     </>
   );
