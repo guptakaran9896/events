@@ -25,8 +25,11 @@ const Category = (props) => {
           </div>
         </div>
       </div>
+<<<<<<< HEAD
      
      
+=======
+>>>>>>> d4af9f03193cc1ae4dd0cb6c09c3058129b89869
     </div>
   );
 };
